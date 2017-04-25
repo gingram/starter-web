@@ -12,3 +12,6 @@ This is some random text
 Nad this is some more
 
 ## And yet another heading
+
+
+### Copyrhight
